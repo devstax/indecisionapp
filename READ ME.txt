@@ -1,0 +1,3 @@
+Once you have Babel connected, YARN installed as well Node.js open two separated terminal tabs.
+1st Terminal > needs to guide towards the Indecision-app folder ( cd desktop / cd indecision-app )  >  yarn run build
+2nd Terminal > needs to guide towards the Public folder inside inside Indecision-app folder ( cd desktop / cd indecision-app / cd public ) > yarn run dev-server
